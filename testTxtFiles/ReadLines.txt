@@ -1,0 +1,7 @@
+when i read this file with the reader
+then i ensure that i will see
+only this rows of the file
+and this as well
+and this
+so if you did it well
+than congratulations
